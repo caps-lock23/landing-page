@@ -162,3 +162,11 @@ a {
     color: white;
     border-radius: 8px;
 }
+
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 2rem;
+    color: #E5E7EB;
+}
